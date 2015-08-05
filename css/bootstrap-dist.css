@@ -6318,52 +6318,52 @@ body {
 #fastener-services,
 #gasket-services,
 #clamp-services {
-  background-image: url("sonfast/images/fasteners_fw2.jpg");
+  background-image: url("../images/fasteners_fw2.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 #agriculture {
-  background-image: url("/images/tractor_2_fw.jpg");
+  background-image: url("../images/tractor_2_fw.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 #automotive {
-  background-image: url("/images/car_fw.jpg");
+  background-image: url("../images/car_fw.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 #furniture {
-  background-image: url("/images/car_fw.jpg");
+  background-image: url("../images/car_fw.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 #home-goods {
-  background-image: url("/images/garage_fw.jpg");
+  background-image: url("../images/garage_fw.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 #hvac {
-  background-image: url("/images/hvac_fw.jpg");
+  background-image: url("../images/hvac_fw.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 #lawn-care {
-  background-image: url("/images/mower_fw.jpg");
+  background-image: url("../images/mower_fw.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 #lighting {
-  background-image: url("/images/lights_fw.jpg");
+  background-image: url("../images/lights_fw.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 #medical {
-  background-image: url("/images/heartbeat_fw.jpg");
+  background-image: url("../images/heartbeat_fw.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
 #military {
-  background-image: url("/images/car_fw.jpg");
+  background-image: url("../images/car_fw.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
