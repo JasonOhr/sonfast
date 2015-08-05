@@ -58,7 +58,8 @@
 
 
     </div>
-    <?php include("includes/standards.php");
+    <?php
+    //include("includes/standards.php");
     include("includes/footer.php")
     ?>
 

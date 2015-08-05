@@ -57,7 +57,7 @@
                         <li class="dropdown"><a href="#" data-toggle="dropdown">About<b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="about.php">About</a></li>
-                                <li class="iso"><a href="resources/SonfastCertificateISO9001.pdf" target="_blank">ISO
+                                <li class="iso"><a href="resources/SonfastCorporationISO9001CERT.pdf" target="_blank">ISO
                                         Certificate  <span class="glyphicon glyphicon-file"></span></a></li>
                             </ul>
                         </li>

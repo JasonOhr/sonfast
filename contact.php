@@ -43,7 +43,7 @@
                     <div class="row">
                         <div class="col-xs-6 center">
                             <h6>Southeast Sales:</h6>
-                            <div class="pic"><img class="img-rounded img-responsive" src="images/paul2.jpg" alt="picture"/>
+                            <div class="pic"><img class="img-rounded img-responsive" src="images/paul.png" alt="picture"/>
                             </div>
                             <h5>Paul A. Pappy</h5>
                             <div class="h7"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>  864.884.9158</div>
@@ -66,7 +66,8 @@
             </div>
         </div>
 </div>
-    <?php include("includes/standards.php");
+    <?php
+    //include("includes/standards.php");
     include("includes/footer.php")
     ?>
 </body>

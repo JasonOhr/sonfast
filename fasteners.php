@@ -19,7 +19,7 @@
     </div>
     <?php include("includes/fastener_spec_tab.php");?>
     <?php
-        include("includes/standards.php");
+        //include("includes/standards.php");
         include("includes/footer.php");
     ?>
 

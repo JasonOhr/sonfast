@@ -7,7 +7,6 @@
     <div  id="hero">
     </div>
 
-    <?php echo "what's up ya fuck?";?>
     <div id="hero2">
 
     </div>
