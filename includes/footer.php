@@ -8,7 +8,7 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About Us</a></li>
                 <li><a href="contact.php">Contact Us</a>
-                <li class="iso"><a href="resources/SonfastCertificateISO9001.pdf" target="_blank">ISO Certificate <span class="glyphicon glyphicon-file"></span>
+                <li class="iso"><a href="resources/SonfastCorporationISO9001CERT.pdf" target="_blank">ISO Certificate <span class="glyphicon glyphicon-file"></span>
                     </a></li>
             </ul>
 

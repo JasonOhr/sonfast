@@ -275,7 +275,7 @@
             <ul>
                 <li>Clevis</li>
                 <li>Cotter</li>
-                <li>Dower</li>
+                <li>Dowel</li>
                 <li>Ejector</li>
                 <li>Hitch</li>
                 <li>Locating</li>

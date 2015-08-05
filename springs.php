@@ -18,7 +18,7 @@
     </div>
     <?php include("includes/spring_spec_tab.php");?>
     <?php
-        include("includes/standards.php");
+        //include("includes/standards.php");
         include("includes/footer.php");
     ?>
 

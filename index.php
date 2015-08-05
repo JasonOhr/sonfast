@@ -17,7 +17,7 @@
     <div id="hero2">
 
         <div class="content">
-            <h2>SONFAST<img src="images/symbol.jpg" alt="symbol"> </h2>
+            <h2>SONFAST<img src="images/ichthus.png" alt="symbol"> </h2>
             <p>Serving customers in the automotive, defense, medical, and consumer goods industries since 1979 and have expanded to provide customers with a wide array of sourcing and distribution services. In addition to distribution, we provide technical support regarding new designs, quality testing, lot traceability, and custom inventory management programs.</p>
             <h2>Dedicated to customer satisfaction</h2>
             <h4>Why you should consider Sonfast</h4>
@@ -48,7 +48,8 @@
 
 
     </div>
-    <?php include("includes/standards.php");
+    <?php
+    //include("includes/standards.php");
     include("includes/footer.php")
     ?>
 
