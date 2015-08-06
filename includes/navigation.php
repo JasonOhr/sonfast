@@ -41,10 +41,10 @@
                         </li>
                         <li class="dropdown" ><a href="#" data-toggle="dropdown">Services <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#">Vendor Managed Inventory</a></li>
+                                <li><a href="vmi.php">Vendor Managed Inventory</a></li>
                                 <li><a href="jit.php">Just in Time!</a></li>
-                                <li><a href="#">Application Solutions/ Engineering Support</a></li>
-                                <li><a href="#">Logistics Incentives</a></li>
+                                <li><a href="app_sol.php">Application Solutions/ Engineering Support</a></li>
+                                <li><a href="log.php">Logistics Incentives</a></li>
 
                             </ul>
                         </li>

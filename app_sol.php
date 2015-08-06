@@ -1,11 +1,11 @@
 <?php include("includes/header.php");?>
 
-<body id="jit" class="b">
+<body id="app_sol" class="b">
 <?php include("includes/navigation.php");?>
 
 <div  id="hero" class="hidden-xs">
     <div class="tag">
-        <h2 class="text-center">Services: JIT!</h2>
+        <h2 class="text-center">Services: Applications Solutions/Engineering Support</h2>
     </div>
 
 
@@ -15,8 +15,8 @@
 
 <div id="hero2">
     <div class="content">
-        <h2>JIT - Just in Time! <img src="images/symbol.jpg" alt="symbol"> </h2>
-        <p>Sonfast has always thrived on the business model of JUST IN TIME delivery. If a VMI is not the route a customer chooses to go, Sonfast offers JIT supply by stocking items on a long term forecast or blanket purchase order. This makes it easier for both our customers and us, to respond to inventory fluctiation in a very short amount of time. Sonfast is proactive in planning and purchasing for its JIT partnerships and we don't want you to have to worry about anything. When you've got Sonfast, you're problems are solved before they show up!</p>
+        <h2>Applications Solutions/Engineering Support <img src="images/symbol.jpg" alt="symbol"> </h2>
+        <p>Sonfast wants to make everything easier for our customers. This comes down to all facets of our customers' processes. Most specifically, we offer engineering support and application solutions on the FRONT END of design, R & D, and planning. We will look at your design, per application, and standardize specialty items, consolidate the number of parts used in a given product. Through standardization of hardware and reduction in line items in a bill of materials, we can offer more competitive sourcing strategies and ultimately pricing.</p>
         <h2>Dedicated to customer satisfaction</h2>
         <h4>Why you should consider Sonfast</h4>
         <ul class="list-group">

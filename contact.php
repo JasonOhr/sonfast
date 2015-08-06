@@ -42,9 +42,14 @@
 
 
     <div id="hero2">
+        <div class="map-space">
+            <div id="map"   >
+            </div>
+            <div id="map2">
 
-        <div id="map"   >
+            </div>
         </div>
+
 
         <div id="contact-info" class="container">
             <div class="row">

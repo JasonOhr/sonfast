@@ -5,7 +5,7 @@
 
 <div  id="hero" class="hidden-xs">
     <div class="tag">
-        <h2 class="text-center">Services: JIT!</h2>
+        <h2 class="text-center">Services: Logistics Incentives</h2>
     </div>
 
 
@@ -15,8 +15,8 @@
 
 <div id="hero2">
     <div class="content">
-        <h2>JIT - Just in Time! <img src="images/symbol.jpg" alt="symbol"> </h2>
-        <p>Sonfast has always thrived on the business model of JUST IN TIME delivery. If a VMI is not the route a customer chooses to go, Sonfast offers JIT supply by stocking items on a long term forecast or blanket purchase order. This makes it easier for both our customers and us, to respond to inventory fluctiation in a very short amount of time. Sonfast is proactive in planning and purchasing for its JIT partnerships and we don't want you to have to worry about anything. When you've got Sonfast, you're problems are solved before they show up!</p>
+        <h2>Logistics Incentives <img src="images/symbol.jpg" alt="symbol"> </h2>
+        <p>All of Sonfast services are value added incentives to do business with us. Logistics is another way Sonfast can offer a competitive edge on what our customer's spend. Sonfast will negotiate prepaid freight to any location on the East coast, based on the dollar value spent. We want to make our customers comfortable with doing business with us by taking as much off their collective plate as we can.</p>
         <h2>Dedicated to customer satisfaction</h2>
         <h4>Why you should consider Sonfast</h4>
         <ul class="list-group">
