@@ -6367,6 +6367,11 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+#jit {
+  background-image: url("../images/lights_fw.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
 #hero {
   margin-bottom: 2em;
   width: 100%;

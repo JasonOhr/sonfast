@@ -2,6 +2,30 @@
  * Created by Jason Ohr on 11/21/14.
  */
 $(function () {
+    var paulBio = {name:"Paul A. Pappy", bio: "Paul lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet assumenda beatae, eaque et ex excepturi exercitationem illum labore minus nam necessitatibus quasi qui quisquam reiciendis repudiandae ullam ut veritatis voluptatem?"};
+    var dougBio = {name:"Doug Darr", bio: "Doug lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet assumenda beatae, eaque et ex excepturi exercitationem illum labore minus nam necessitatibus quasi qui quisquam reiciendis repudiandae ullam ut veritatis voluptatem?"};
+
+    $('#bioModal').on('show.bs.modal', function (event) {
+        var button = $(event.relatedTarget); // Button that triggered the modal
+        console.log(button.data('bio'));
+        var bioButton = function(){
+            if(button.data('bio') === 'paulBio'){
+                return paulBio;
+            }else if (button.data('bio') === 'dougBio'){
+                return dougBio;
+            }else {
+                return "hi";
+            }
+        };
+
+        var recipient = bioButton();  //Extract info from data-* attributes
+        // If necessary, you could initiate an AJAX request here (and then do the updating in a callback).
+        // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
+        var modal = $(this);
+        modal.find('.modal-title').text(recipient.name);
+        modal.find('.modal-body p').text(recipient.bio);
+    });
+
   var index = 0;
   var verses = [
     ['Do not worry about how you will speak. For it will be given to you in that hour what you should speak. For it is not you who speaks, but the Spirit of your Father who speaks in you.','Mathew 13:19-20'],
@@ -85,4 +109,4 @@ $(function () {
     document.title = title;
     $("li.list-group-item:odd").css("background-color","rgba(0,0,139,0.2)");
     $('.btn-group-justified button[href="#1"]').focusWithoutScrolling();
-})
+});

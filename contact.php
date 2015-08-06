@@ -9,6 +9,37 @@
     </div>
 
 
+    <div class="modal fade" id="bioModal" tabindex="-1" role="dialog" aria-labelledby="bioModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="bioModalLabel">New message</h4>
+                </div>
+                <div class="modal-body">
+                    <div>
+                        <p></p><!-- this is where the bio will go -->
+                    </div>
+<!--                    <form>-->
+<!--                        <div class="form-group">-->
+<!--                            <label for="recipient-name" class="control-label">Recipient:</label>-->
+<!--                            <input type="text" class="form-control" id="recipient-name">-->
+<!--                        </div>-->
+<!--                        <div class="form-group">-->
+<!--                            <label for="message-text" class="control-label">Message:</label>-->
+<!--                            <textarea class="form-control" id="message-text"></textarea>-->
+<!--                        </div>-->
+<!--                    </form>-->
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 
     <div id="hero2">
 
@@ -18,7 +49,7 @@
         <div id="contact-info" class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <h2 class="text-uppercase" ">Sonfast</h2>
+                    <h2 class="text-uppercase" >Sonfast</h2>
                 </div>
                 <div class="col-md-8 ">
                     <ul class="list-unstyled">
@@ -47,7 +78,9 @@
                             </div>
                             <h5>Paul A. Pappy</h5>
                             <div class="h7"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>  864.884.9158</div>
+
                             <div class="h7"><a href="mailto:paul@sonfast.com?subject=More%20Information"><span class="glyphicon glyphicon-envelope"></span>  paul@sonfast.com</a></div>
+                            <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#bioModal" data-bio="paulBio">Paul's Bio</button>
                         </div>
                         <div class="col-xs-6 center">
                             <h6>Northeast Sales:</h6>
@@ -57,6 +90,7 @@
                             <h5> Doug Darr</h5>
                             <div class="h7"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>  814.701.1168</div>
                             <div class="h7"><a href="mailto:darrsom@aol.com?subject=More%20Information""><span class="glyphicon glyphicon-envelope"></span>  darrsom@aol.com</a></div>
+                            <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#bioModal" data-bio="dougBio">Doug's Bio</button>
                         </div>
                     </div>
 

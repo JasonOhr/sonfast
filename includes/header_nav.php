@@ -28,7 +28,7 @@
                 mapTypeId : google.maps.MapTypeId.ROADMAP,
                 scrollwheel: false,
                 draggable: false
-                }
+                };
             var mapSc = new google.maps.Map(scCanvas, scMapOptions);
             var markerSc = new google.maps.Marker({
                 position: scLatLng,
