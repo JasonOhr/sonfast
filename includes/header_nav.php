@@ -48,7 +48,7 @@
             var markerPa = new google.maps.Marker({
                 position: paLatLng,
                 map: mapPa,
-                title: 'Sonfast\n' + '250 Alisa St.\n' + ' Somerset, PA 15501 '
+                title: 'Sonfast\n' + '250 Alisa St.\n' + 'Somerset, PA 15501 '
             });
         }
         google.maps.event.addDomListener(window, 'load', initialize);

@@ -2,6 +2,21 @@
  * Created by Jason Ohr on 11/21/14.
  */
 $(function () {
+    var paMap = false;
+
+    $('.pa-address').click(function(){
+        if(!paMap){
+            $('#map').fadeToggle("slow");
+            paMap = true;
+        }
+    });
+    $('.sc-address').click(function(){
+        if(paMap){
+            $('#map').fadeToggle("slow");
+            paMap = false;
+        }
+    });
+
     var paulBio = {name:"Paul A. Pappy", bio: "Paul lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet assumenda beatae, eaque et ex excepturi exercitationem illum labore minus nam necessitatibus quasi qui quisquam reiciendis repudiandae ullam ut veritatis voluptatem?"};
     var dougBio = {name:"Doug Darr", bio: "Doug lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet assumenda beatae, eaque et ex excepturi exercitationem illum labore minus nam necessitatibus quasi qui quisquam reiciendis repudiandae ullam ut veritatis voluptatem?"};
 

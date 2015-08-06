@@ -39,8 +39,8 @@
         </div>
 
         <div class="col-sm-3">
-            <h4>File Formats</h4>
-            <ul class="list-unstyled d_li">
+            <h4>Services</h4>
+            <ul class="list-unstyled ">
                 <li><a href="vmi.php">Vendor Managed Inventory</a></li>
                 <li><a href="jit.php">Just in Time!</a></li>
                 <li><a href="app_sol.php">Application Solutions/ Engineering Support</a></li>

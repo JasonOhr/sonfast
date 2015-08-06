@@ -68,8 +68,8 @@
             </div>
             <div class="row">
                 <div >
-                    <p class="text-right small">450 Stamey Valley Rd. Travelers Rest, SC 29690</p>
-                    <p class="text-right small">250 Alisa St. Somerset, PA 15501</p>
+                    <p class="text-right small sc-address">450 Stamey Valley Rd. Travelers Rest, SC 29690</p>
+                    <p class="text-right small pa-address">250 Alisa St. Somerset, PA 15501</p>
                 </div>
             </div>
 
@@ -85,7 +85,7 @@
                             <div class="h7"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>  864.884.9158</div>
 
                             <div class="h7"><a href="mailto:paul@sonfast.com?subject=More%20Information"><span class="glyphicon glyphicon-envelope"></span>  paul@sonfast.com</a></div>
-                            <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#bioModal" data-bio="paulBio">Paul's Bio</button>
+<!--                            <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#bioModal" data-bio="paulBio">Paul's Bio</button>-->
                         </div>
                         <div class="col-xs-6 center">
                             <h6>Northeast Sales:</h6>
@@ -95,7 +95,7 @@
                             <h5> Doug Darr</h5>
                             <div class="h7"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>  814.701.1168</div>
                             <div class="h7"><a href="mailto:darrsom@aol.com?subject=More%20Information""><span class="glyphicon glyphicon-envelope"></span>  darrsom@aol.com</a></div>
-                            <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#bioModal" data-bio="dougBio">Doug's Bio</button>
+<!--                            <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#bioModal" data-bio="dougBio">Doug's Bio</button>-->
                         </div>
                     </div>
 
