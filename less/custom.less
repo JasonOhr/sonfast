@@ -59,6 +59,26 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+#jit {
+  background-image: url("../images/fasteners_fw2.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+#vmi {
+  background-image: url("../images/fasteners_fw2.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+#app_sol {
+  background-image: url("../images/fasteners_fw2.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+#log {
+  background-image: url("../images/fasteners_fw2.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
 
 
 #hero {
@@ -95,15 +115,39 @@ body {
   margin: 0px;
   color: #f5f5f5;
 }
+#hero {
+  //position: relative;
+}
 
-#hero2, #map {
+#hero2, #map,#map2 {
   background-color: @custom-parchment-opaque;
   //height: 800px;
   width: 100%;
 }
-#map {
+.map-space {
+  position: relative;
+  width: 100%;
   height: 500px;
+}
+#map,#map2 {
+  height: 500px;
+  position: absolute;
 
+}
+#map {
+  z-index: 10;
+//  visibility: hidden;
+}
+#map2 {
+  z-index: 8;
+}
+.pa-address,
+.sc-address {
+  cursor: pointer;
+}
+.pa-address:hover,
+.sc-address:hover {
+  color:lightgray;
 }
 .space {  // used on the h2 of the contact page
   margin-left: 2em;
@@ -481,7 +525,7 @@ blockquote p{
   #contact-info h2 {
     display: none;
   }
-  #map {
+  #map,#map2 {
     height: 440px;
   }
 

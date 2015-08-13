@@ -39,24 +39,18 @@
                                 <li><a href="medical.php">Medical</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown" ><a href="#" data-toggle="dropdown">File Formats <b class="caret"></b></a>
+                        <li class="dropdown" ><a href="#" data-toggle="dropdown">Services <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#">AutoCAD (DWG,DWZ)</a></li>
-                                <li><a href="#">BMP</a></li>
-                                <li><a href="#">GIF</a></li>
-                                <li><a href="#">IGES</a></li>
-                                <li><a href="#">ANSI</a></li>
-                                <li><a href="#">Inverter (IDW,IPT)</a></li>
-                                <li><a href="#">JPG</a></li>
-                                <li><a href="#">PDF</a></li>
-                                <li><a href="#">SolidEdge (DFT)</a></li>
-                                <li><a href="#">STEP</a></li>
-                                <li><a href="#">TIFF</a></li>
+                                <li><a href="vmi.php">Vendor Managed Inventory</a></li>
+                                <li><a href="jit.php">Just in Time!</a></li>
+                                <li><a href="app_sol.php">Application Solutions/ Engineering Support</a></li>
+                                <li><a href="log.php">Logistics Incentives</a></li>
+
                             </ul>
                         </li>
                         <li class="dropdown"><a href="#" data-toggle="dropdown">About<b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="about.php">About</a></li>
+                                <li><a href="about.php">Company History</a></li>
                                 <li class="iso"><a href="resources/SonfastCorporationISO9001CERT.pdf" target="_blank">ISO
                                         Certificate  <span class="glyphicon glyphicon-file"></span></a></li>
                             </ul>

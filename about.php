@@ -4,7 +4,7 @@
 
 <div  id="hero" >
     <div>
-        <h2 class="space text-uppercase">About Us</h2>
+        <h2 class="space text-uppercase">Our Company's History</h2>
     </div>
 
 

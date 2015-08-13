@@ -6,7 +6,7 @@
             <h4>Sonfast</h4>
             <ul class="list-unstyled">
                 <li><a href="index.php">Home</a></li>
-                <li><a href="about.php">About Us</a></li>
+                <li><a href="about.php">Company History</a></li>
                 <li><a href="contact.php">Contact Us</a>
                 <li class="iso"><a href="resources/SonfastCorporationISO9001CERT.pdf" target="_blank">ISO Certificate <span class="glyphicon glyphicon-file"></span>
                     </a></li>
@@ -39,16 +39,12 @@
         </div>
 
         <div class="col-sm-3">
-            <h4>File Formats</h4>
-            <ul class="list-unstyled d_li">
-                <li>AutoCAD (DWG,DWZ)</li>
-                <li>IGES</li>
-                <li>ANSI</li>
-                <li>Inverter (IDW,IPT)</li>
-                <li>PDF</li>
-                <li>SolidEdge (DFT)</li>
-                <li>STEP</li>
-                <li>TIFF</li>
+            <h4>Services</h4>
+            <ul class="list-unstyled ">
+                <li><a href="vmi.php">Vendor Managed Inventory</a></li>
+                <li><a href="jit.php">Just in Time!</a></li>
+                <li><a href="app_sol.php">Application Solutions/ Engineering Support</a></li>
+                <li><a href="log.php">Logistics Incentives</a></li>
             </ul>
         </div>
         
