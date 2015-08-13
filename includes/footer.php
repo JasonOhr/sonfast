@@ -6,7 +6,7 @@
             <h4>Sonfast</h4>
             <ul class="list-unstyled">
                 <li><a href="index.php">Home</a></li>
-                <li><a href="about.php">About Us</a></li>
+                <li><a href="about.php">Company History</a></li>
                 <li><a href="contact.php">Contact Us</a>
                 <li class="iso"><a href="resources/SonfastCorporationISO9001CERT.pdf" target="_blank">ISO Certificate <span class="glyphicon glyphicon-file"></span>
                     </a></li>

@@ -16,7 +16,7 @@
 <div id="hero2">
     <div class="content">
         <h2>Logistics Incentives <img src="images/symbol.jpg" alt="symbol"> </h2>
-        <p>All of Sonfast services are value added incentives to do business with us. Logistics is another way Sonfast can offer a competitive edge on what our customer's spend. Sonfast will negotiate prepaid freight to any location on the East coast, based on the dollar value spent. We want to make our customers comfortable with doing business with us by taking as much off their collective plate as we can.</p>
+        <p>All of Sonfast services are value added incentives to do business with us. Logistics is another way Sonfast can offer a competitive edge on what our customers spend. Sonfast will negotiate prepaid freight to any location on the East coast, based on the dollar value spent. We want to make our customers comfortable with doing business with us by taking as much off their collective plate as we can.</p>
         <h2>Dedicated to customer satisfaction</h2>
         <h4>Why you should consider Sonfast</h4>
         <ul class="list-group">
